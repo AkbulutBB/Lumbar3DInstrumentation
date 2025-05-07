@@ -2,7 +2,7 @@ Overview
 This repository contains the 3D printing files and documentation for creating a cost-effective, fluoroscopy-compatible L4-L5 spine model for pedicle screw placement training. The model features innovative use of barium-enhanced coating and PETG material, providing both structural integrity and radiographic visibility at a fraction of the cost of commercial alternatives.
 Citation
 If you use these files, please cite:
-[Paper citation to be added after publication]
+Bölük, Mustafa Serdar MD; Akbulut, Bilal Bahadır MD; Yurtseven, Taşkın MD; Biçeroğlu, Hüseyin MD. Novel Barium-Enhanced 3-Dimensional-Printed Spine Model for Pedicle Screw Training: A Cost-Effective Solution and Educational Validation. Operative Neurosurgery ():10.1227/ons.0000000000001602, May 7, 2025. | DOI: 10.1227/ons.0000000000001602 
 
 Material Requirements
 
